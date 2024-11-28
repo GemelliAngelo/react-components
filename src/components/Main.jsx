@@ -2,7 +2,7 @@ export default function Main() {
   return (
     <main>
       <div className="container">
-        <div className="d-flex justify-content-center py-2">
+        <div className="d-flex justify-content-center">
           <div className="card">
             <img
               src="src\assets\img\placeholder.png"
@@ -17,7 +17,7 @@ export default function Main() {
                 accusamus, veniam omnis harum? Incidunt, similique! Tempore
                 perspiciatis voluptatem quod, minus numquam repudiandae!
               </p>
-              <button type="button" className="btn btn-warning py-2 px-3">
+              <button type="button" className="btn btn-warning py-2 px-3 mt-3">
                 LEGGI DI PIÙ
               </button>
             </div>
